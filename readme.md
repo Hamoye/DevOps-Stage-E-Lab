@@ -7,7 +7,7 @@
 
 ## What to Submit
 
-You are not officially submitting anything.
+You are to submit links to github repositories that contains images(screenshots) of your deployments before deleting the deployments for each lab 
 
 However the labs reviewer will need access to your Azure tenant to review and score the labs.
 
